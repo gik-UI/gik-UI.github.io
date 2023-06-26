@@ -12,6 +12,10 @@ img {
     border-radius: 1em;
 }
 
+p#uiuxdesigner {
+    font-size: 1.125em;
+}
+
 h1#fullname {
     color: #cb8163;
 }
