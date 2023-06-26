@@ -5,9 +5,22 @@
 body {
     font-family: 'Quicksand', sans-serif;
     color: #282828;
+    background-color: #faf9f6;
+}
+
+h1#fullname {
+    color: #cb8163;
+}
+
+address#address li {
+    display: inline;
 }
 
 span#name {
     color: #cb8163;
+}
+
+li {
+    list-style: none;
 }
 
