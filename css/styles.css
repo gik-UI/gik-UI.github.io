@@ -4,4 +4,10 @@
 
 body {
     font-family: 'Quicksand', sans-serif;
+    color: #282828;
 }
+
+span#name {
+    color: #cb8163;
+}
+
