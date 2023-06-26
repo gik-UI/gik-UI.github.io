@@ -8,6 +8,10 @@ body {
     background-color: #faf9f6;
 }
 
+img {
+    border-radius: 1em;
+}
+
 h1#fullname {
     color: #cb8163;
 }
